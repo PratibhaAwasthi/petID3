@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "id": "petItem3",
+      "name": "Milk-Bone MaroSnacks",
+      "company": "Milk-Bone",
+      "price": 9.99,
+      "description": "Milk-Bone MaroSnacks are a delicious and nutritious treat for dogs. These bone-shaped snacks are made with real bone marrow, which is packed with flavor and nutrients that dogs love. The chewy texture helps promote healthy teeth and gums by reducing plaque and tartar buildup. Milk-Bone MaroSnacks are also fortified with 12 vitamins and minerals, including calcium for strong bones and teeth. They are a great way to reward your dog and show them how much you care. Whether you use them as a training treat or a special snack, Milk-Bone MaroSnacks are sure to be a hit with your furry friend.",
+      "category": "Dog",
+      "shipping": true,
+      "stock": 12,
+      "reviews": 28,
+      "stars": 4.2,
+      "image": [
+        {
+          "id": "randomid1",
+          "width": 1080,
+          "height": 650,
+          "url": "https://i.pinimg.com/564x/ed/c2/3b/edc23b23a6538a31db30cacd6caacda6.jpg",
+          "filename": "prod-1.png",
+          "size": 1080,
+          "type": "image/png"
+        },
+        {
+          "id": "randomid2",
+          "width": 1080,
+          "height": 650,
+          "url": " https://i.pinimg.com/564x/ed/c2/3b/edc23b23a6538a31db30cacd6caacda6.jpg",
+          "filename": "prod-2.png",
+          "size": 1080,
+          "type": "image/png"
+        },
+        {
+          "id": "randomid3",
+          "width": 1080,
+          "height": 650,
+          "url": "https://i.pinimg.com/564x/ed/c2/3b/edc23b23a6538a31db30cacd6caacda6.jpg",
+          "filename": "prod-3.png",
+          "size": 1080,
+          "type": "image/png"
+        },
+        {
+          "id": "randomid4",
+          "width": 1080,
+          "height": 650,
+          "url": "https://i.pinimg.com/564x/ed/c2/3b/edc23b23a6538a31db30cacd6caacda6.jpg",
+          "filename": "prod-4.png",
+          "size": 1080,
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
+}
